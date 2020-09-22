@@ -4,7 +4,7 @@ This repository is reserved for Colab and Kaggle notebooks and labs. I will try 
 
 Check out the Google's Colab project __[here](https://colab.research.google.com)__.
 
-Respectivelly, Kaggle's official website __[here](https://www.kaggle.com)__.
+Respectively, Kaggle's official website __[here](https://www.kaggle.com)__.
 
 ## License
-__[MIT](https://github.com/chrismartinis/deep_learning_specialization/blob/master/LICENSE)__
+__[MIT](https://github.com/chrismartinis/colab_and_kaggle/blob/master/LICENSE)__
